@@ -1,6 +1,5 @@
 # Blockchain-and-Web3
 
-```markdown
 # Course Description
 
 **Blockchain Basics** is the most popular introductory blockchain developer course. It has introduced hundreds of thousands of developers to the world of web3. It is the most complete, hands-on introduction to blockchain technologies and smart contracts available.
@@ -56,4 +55,4 @@ As a Cyfrin Updraft student, you get lifetime access to all lectures, correspond
   - $60,000 - $150,000 (avg. salary)
 - **Smart Contract Engineer**
   - $100,000 - $150,000 (avg. salary)
-```
+
